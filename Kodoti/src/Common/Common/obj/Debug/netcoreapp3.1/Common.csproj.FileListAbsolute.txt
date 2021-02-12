@@ -1,0 +1,7 @@
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Common\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Common\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Common\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Common\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Common\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Common\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Common\Common\obj\Debug\netcoreapp3.1\Common.pdb

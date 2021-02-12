@@ -1,0 +1,24 @@
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Service\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Service\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\J.J. Areas\source\repos\Kodoti\src\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Projects\C#Projects\Kodoti\src\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Projects\C#Projects\Kodoti\src\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Projects\C#Projects\Kodoti\src\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Projects\C#Projects\Kodoti\src\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Projects\C#Projects\Kodoti\src\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Projects\C#Projects\Kodoti\src\Service\bin\Debug\netcoreapp3.1\Common.dll
+C:\Projects\C#Projects\Kodoti\src\Service\bin\Debug\netcoreapp3.1\Models.dll
+C:\Projects\C#Projects\Kodoti\src\Service\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Projects\C#Projects\Kodoti\src\Service\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Projects\C#Projects\Kodoti\src\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Projects\C#Projects\Kodoti\src\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Projects\C#Projects\Kodoti\src\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Projects\C#Projects\Kodoti\src\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete

@@ -1,0 +1,46 @@
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.exe
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.deps.json
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.runtimeconfig.json
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.runtimeconfig.dev.json
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.dll
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.pdb
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csprojAssemblyReference.cache
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.AssemblyInfoInputs.cache
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.AssemblyInfo.cs
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.dll
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.pdb
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\J.J. Areas\source\repos\Kodoti\src\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csproj.CopyComplete
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csprojAssemblyReference.cache
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.AssemblyInfoInputs.cache
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.AssemblyInfo.cs
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.dll
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.pdb
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.exe
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.deps.json
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.runtimeconfig.json
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.runtimeconfig.dev.json
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.dll
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.pdb
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\Common.dll
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\Models.dll
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\Service.dll
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Projects\C#Projects\Kodoti\src\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csproj.CopyComplete

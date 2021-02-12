@@ -1,0 +1,8 @@
+C:\Projects\C#Projects\Kodoti\src\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Projects\C#Projects\Kodoti\src\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Projects\C#Projects\Kodoti\src\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Projects\C#Projects\Kodoti\src\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\Projects\C#Projects\Kodoti\src\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Projects\C#Projects\Kodoti\src\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Projects\C#Projects\Kodoti\src\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Projects\C#Projects\Kodoti\src\Models\obj\Debug\netcoreapp3.1\Models.pdb
